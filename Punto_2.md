@@ -42,12 +42,12 @@
                 {
                     "usuario_trabaja_id": 1,
                     "nombre": "Jesus Restrepo",
-                    "email": "Cristian@1234.com"
+                    "email": "jesusr@gmail.com"
                 },
                 {
                     "usuario_trabaja_id": 2,
                     "nombre": "Nubia Velandia",
-                    "email": "Cristian@1234.com"
+                    "email": "nubiav@hotmail.com"
                 }
             ]
         }
