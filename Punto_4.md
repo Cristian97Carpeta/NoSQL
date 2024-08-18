@@ -1,4 +1,4 @@
-## Punto 3
+## Punto 4
 
 ![](image-4.png)
 
