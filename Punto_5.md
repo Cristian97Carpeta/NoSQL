@@ -6,7 +6,7 @@
 {
   "Cliente": [
     {
-      "id": 01,
+      "id": 11,
       "nombre": "Cristian",
       "email": "123@gmail.com"
     }
@@ -21,7 +21,7 @@
   "Venta": [
     {
       "id": 3,
-      "cliente_id": 01,
+      "cliente_id": 11,
       "fecha": 22-03-02
     }
   ],
